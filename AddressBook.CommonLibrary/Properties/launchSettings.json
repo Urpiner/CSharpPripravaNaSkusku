@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AddressBook.CommonLibrary": {
+      "commandName": "Project",
+      "commandLineArgs": "--input C:\\Users\\Asus\\Desktop\\employees.json --output C:\\Users\\Asus\\Desktop\\outputCsv.csv "
+    }
+  }
+}

@@ -1,0 +1,26 @@
+﻿<Window x:Class="AddressBook.ViewerWpfApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AddressBook.ViewerWpfApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="543" Width="451">
+    <Grid  Height="522" VerticalAlignment="Top" Margin="0,0,10,0"    >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="262*"/>
+            <RowDefinition Height="5*"/>
+        </Grid.RowDefinitions>
+        <Button Content="hshhsh" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="28" Width="84"/>
+        <Label Content="OOOOAAAAA!!!" HorizontalAlignment="Left" Margin="10,57,0,0" VerticalAlignment="Top" Height="25" Width="121"/>
+        <TextBox HorizontalAlignment="Center" Margin="0,82,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="421" Height="23"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="10,129,0,0" VerticalAlignment="Top"/>
+        <ComboBox HorizontalAlignment="Center" Margin="0,160,0,0" VerticalAlignment="Top" Width="421"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="10,129,0,0" VerticalAlignment="Top"/>
+        <ComboBox HorizontalAlignment="Center" Margin="0,160,0,0" VerticalAlignment="Top" Width="421"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="10,129,0,0" VerticalAlignment="Top"/>
+        <ComboBox HorizontalAlignment="Center" Margin="0,160,0,0" VerticalAlignment="Top" Width="421"/>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="10,129,0,0" VerticalAlignment="Top"/>
+        <ComboBox HorizontalAlignment="Center" Margin="0,160,0,0" VerticalAlignment="Top" Width="421"/>
+    </Grid>
+</Window>

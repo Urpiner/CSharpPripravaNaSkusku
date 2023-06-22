@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AddressBook.ViewerConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "--input C:\\Users\\Asus\\Desktop\\employees.json --position vedúci katedry --output C:\\Users\\Asus\\Desktop\\outputCsv.csv"
+    }
+  }
+}
